@@ -1,0 +1,654 @@
+{
+  "season": "Cool Summer",
+  "tags": [
+    "Cool undertone",
+    "Medium value",
+    "Soft chroma"
+  ],
+  "features": [
+    {
+      "label": "Eyes",
+      "tip": "Soft blue-gray, with a delicate slate ring."
+    },
+    {
+      "label": "Brows",
+      "tip": "Ash-brown, with a naturally gentle arch."
+    },
+    {
+      "label": "Nose",
+      "tip": "A softly defined bridge and rounded tip."
+    },
+    {
+      "label": "Lips",
+      "tip": "A muted rosy tone with a defined Cupid’s bow."
+    },
+    {
+      "label": "Face shape",
+      "tip": "Oval, with softly balanced proportions."
+    }
+  ],
+  "bestColors": [
+    {
+      "name": "Dusty rose",
+      "hex": "#C98B9A"
+    },
+    {
+      "name": "Soft mauve",
+      "hex": "#AC8BA6"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#B6A7CD"
+    },
+    {
+      "name": "Periwinkle",
+      "hex": "#8E9FC5"
+    },
+    {
+      "name": "Powder blue",
+      "hex": "#AAC5D8"
+    },
+    {
+      "name": "Slate blue",
+      "hex": "#718CA8"
+    },
+    {
+      "name": "Seafoam",
+      "hex": "#A8C7C0"
+    },
+    {
+      "name": "Soft teal",
+      "hex": "#6EAAA7"
+    },
+    {
+      "name": "Berry",
+      "hex": "#985C7D"
+    },
+    {
+      "name": "Plum",
+      "hex": "#795A78"
+    },
+    {
+      "name": "Dove gray",
+      "hex": "#B4B3B8"
+    },
+    {
+      "name": "Soft navy",
+      "hex": "#48556F"
+    }
+  ],
+  "careColors": [
+    {
+      "name": "Orange",
+      "hex": "#E88B45"
+    },
+    {
+      "name": "Mustard",
+      "hex": "#C6A043"
+    },
+    {
+      "name": "Warm camel",
+      "hex": "#BD916C"
+    },
+    {
+      "name": "Jet black",
+      "hex": "#222222"
+    }
+  ],
+  "occasions": [
+    "Work",
+    "Date",
+    "Date night",
+    "Party",
+    "Picnic",
+    "Hiking"
+  ],
+  "analysisSteps": [
+    "Finding your undertone",
+    "Discovering your color season",
+    "Reading your natural features",
+    "Curating your personal looks"
+  ],
+  "looks": {
+    "Work": {
+      "title": "Quietly confident",
+      "tagline": "Polished, soft, and ready for your 9-to-5.",
+      "intensity": "Light",
+      "makeup": [
+        {
+          "label": "Base",
+          "tip": "Sheer cool-neutral skin tint; conceal only where needed.",
+          "colors": [
+            "#D8BFB2",
+            "#EAD7CC"
+          ]
+        },
+        {
+          "label": "Eyes",
+          "tip": "Matte taupe on the lids and a fine slate lash line.",
+          "colors": [
+            "#A99B9B",
+            "#718CA8"
+          ]
+        },
+        {
+          "label": "Blush",
+          "tip": "Sweep dusty rose high on the cheeks for a subtle lift.",
+          "colors": [
+            "#C98B9A",
+            "#D6A5AE"
+          ]
+        },
+        {
+          "label": "Lips",
+          "tip": "A rose-mauve satin lipstick that stays neat through meetings.",
+          "colors": [
+            "#AC7589",
+            "#BD8A99"
+          ]
+        },
+        {
+          "label": "Finish",
+          "tip": "Set the T-zone with translucent powder; keep cheeks natural.",
+          "colors": [
+            "#E8DCDD",
+            "#D2C7CD"
+          ]
+        }
+      ],
+      "outfit": [
+        {
+          "label": "Pieces",
+          "tip": "Dove-gray tailored trousers with a powder-blue blouse."
+        },
+        {
+          "label": "Extras",
+          "tip": "Soft navy loafers and a structured gray tote."
+        },
+        {
+          "label": "Jewelry",
+          "tip": "Small silver hoops and a fine silver watch."
+        }
+      ],
+      "colors": [
+        {
+          "name": "Main",
+          "hex": "#B4B3B8"
+        },
+        {
+          "name": "Second",
+          "hex": "#AAC5D8"
+        },
+        {
+          "name": "Accent",
+          "hex": "#48556F"
+        },
+        {
+          "name": "Lip",
+          "hex": "#AC7589"
+        }
+      ],
+      "hair": [
+        {
+          "label": "Style",
+          "tip": "A smooth, low ponytail with a soft side part."
+        },
+        {
+          "label": "Detail",
+          "tip": "Tuck flyaways with a little cream, not wet-look gel."
+        }
+      ],
+      "goodToKnow": "Check your blush in daylight before leaving; office lighting can make cool tones look washed out."
+    },
+    "Date": {
+      "title": "A little rosy",
+      "tagline": "Easy romance for coffee and a long conversation.",
+      "intensity": "Light",
+      "makeup": [
+        {
+          "label": "Base",
+          "tip": "Dewy skin tint and spot concealer for a fresh close-up finish.",
+          "colors": [
+            "#EAD7CC",
+            "#D8BFB2"
+          ]
+        },
+        {
+          "label": "Eyes",
+          "tip": "Blend soft mauve shadow and one coat of brown-black mascara.",
+          "colors": [
+            "#AC8BA6",
+            "#51464F"
+          ]
+        },
+        {
+          "label": "Blush",
+          "tip": "Tap cool pink cream blush onto the apples of your cheeks.",
+          "colors": [
+            "#D6A5AE",
+            "#C98B9A"
+          ]
+        },
+        {
+          "label": "Lips",
+          "tip": "Choose a rosy tinted balm that is easy to reapply at the table.",
+          "colors": [
+            "#C98B9A",
+            "#BD8A99"
+          ]
+        },
+        {
+          "label": "Finish",
+          "tip": "A tiny touch of pearl highlight on the cheekbones, never glitter.",
+          "colors": [
+            "#E8DCDD",
+            "#CFC4D3"
+          ]
+        }
+      ],
+      "outfit": [
+        {
+          "label": "Pieces",
+          "tip": "A dusty-rose knit with light-wash straight jeans."
+        },
+        {
+          "label": "Extras",
+          "tip": "Dove-gray ballet flats and a small crossbody bag."
+        },
+        {
+          "label": "Jewelry",
+          "tip": "A fine silver pendant and tiny pearl studs."
+        }
+      ],
+      "colors": [
+        {
+          "name": "Main",
+          "hex": "#C98B9A"
+        },
+        {
+          "name": "Second",
+          "hex": "#AAC5D8"
+        },
+        {
+          "name": "Accent",
+          "hex": "#B4B3B8"
+        },
+        {
+          "name": "Lip",
+          "hex": "#BD8A99"
+        }
+      ],
+      "hair": [
+        {
+          "label": "Style",
+          "tip": "Loose, touchable waves with a natural center part."
+        },
+        {
+          "label": "Detail",
+          "tip": "Keep one side tucked behind your ear to show your earrings."
+        }
+      ],
+      "goodToKnow": "A tinted balm handles coffee better than a glossy lipstick; keep it in your crossbody."
+    },
+    "Date night": {
+      "title": "After-hours muse",
+      "tagline": "Soft smoky eyes, a little candlelit allure.",
+      "intensity": "Medium",
+      "makeup": [
+        {
+          "label": "Base",
+          "tip": "Medium-coverage cool-neutral foundation, blended down the neck.",
+          "colors": [
+            "#D8BFB2",
+            "#CEADAA"
+          ]
+        },
+        {
+          "label": "Eyes",
+          "tip": "Smudge plum at the outer corners and slate along the lashes.",
+          "colors": [
+            "#795A78",
+            "#718CA8"
+          ]
+        },
+        {
+          "label": "Blush",
+          "tip": "Place a sheer berry blush just above the cheek hollow.",
+          "colors": [
+            "#985C7D",
+            "#C98B9A"
+          ]
+        },
+        {
+          "label": "Lips",
+          "tip": "Line with muted berry and fill with satin rose for dinner.",
+          "colors": [
+            "#985C7D",
+            "#AC7589"
+          ]
+        },
+        {
+          "label": "Finish",
+          "tip": "Set around the nose and add a cool pearl sheen to cheeks.",
+          "colors": [
+            "#D2C7CD",
+            "#E8DCDD"
+          ]
+        }
+      ],
+      "outfit": [
+        {
+          "label": "Pieces",
+          "tip": "A soft navy slip dress under a cropped dove-gray jacket."
+        },
+        {
+          "label": "Extras",
+          "tip": "Slate heels and a small plum evening bag."
+        },
+        {
+          "label": "Jewelry",
+          "tip": "Silver drop earrings; let the neckline stay clean."
+        }
+      ],
+      "colors": [
+        {
+          "name": "Main",
+          "hex": "#48556F"
+        },
+        {
+          "name": "Second",
+          "hex": "#B4B3B8"
+        },
+        {
+          "name": "Accent",
+          "hex": "#795A78"
+        },
+        {
+          "name": "Lip",
+          "hex": "#985C7D"
+        }
+      ],
+      "hair": [
+        {
+          "label": "Style",
+          "tip": "A low, loose chignon with soft face-framing strands."
+        },
+        {
+          "label": "Detail",
+          "tip": "Use a discreet silver pin and a light mist of flexible spray."
+        }
+      ],
+      "goodToKnow": "Candlelight warms every shade; cool berry lips keep your look balanced without looking harsh."
+    },
+    "Party": {
+      "title": "Your soft spotlight",
+      "tagline": "A little shimmer. A very memorable entrance.",
+      "intensity": "Full",
+      "makeup": [
+        {
+          "label": "Base",
+          "tip": "Long-wear cool-neutral foundation over a hydrating primer.",
+          "colors": [
+            "#D8BFB2",
+            "#CEADAA"
+          ]
+        },
+        {
+          "label": "Eyes",
+          "tip": "Press lavender shimmer onto lids; define with soft navy liner.",
+          "colors": [
+            "#B6A7CD",
+            "#48556F"
+          ]
+        },
+        {
+          "label": "Blush",
+          "tip": "Layer cool rose cream and powder blush for all-night color.",
+          "colors": [
+            "#C98B9A",
+            "#AC7589"
+          ]
+        },
+        {
+          "label": "Lips",
+          "tip": "A blue-based berry lip stain, blotted once before a second coat.",
+          "colors": [
+            "#985C7D",
+            "#795A78"
+          ]
+        },
+        {
+          "label": "Finish",
+          "tip": "Set with fine translucent powder and alcohol-free setting spray.",
+          "colors": [
+            "#E8DCDD",
+            "#CFC4D3"
+          ]
+        }
+      ],
+      "outfit": [
+        {
+          "label": "Pieces",
+          "tip": "A periwinkle satin midi dress or a soft navy jumpsuit."
+        },
+        {
+          "label": "Extras",
+          "tip": "Silver sandals and a small metallic clutch."
+        },
+        {
+          "label": "Jewelry",
+          "tip": "Statement silver earrings with cool-toned crystals."
+        }
+      ],
+      "colors": [
+        {
+          "name": "Main",
+          "hex": "#8E9FC5"
+        },
+        {
+          "name": "Second",
+          "hex": "#48556F"
+        },
+        {
+          "name": "Accent",
+          "hex": "#B4B3B8"
+        },
+        {
+          "name": "Lip",
+          "hex": "#985C7D"
+        }
+      ],
+      "hair": [
+        {
+          "label": "Style",
+          "tip": "Glossy brushed-out waves swept to one side."
+        },
+        {
+          "label": "Detail",
+          "tip": "Pin the lighter side back so your statement earrings shine."
+        }
+      ],
+      "goodToKnow": "Skip SPF-heavy base for flash photos if it causes flashback; test a quick photo before heading out."
+    },
+    "Picnic": {
+      "title": "Daylight daydream",
+      "tagline": "Fresh, breezy color for an afternoon outside.",
+      "intensity": "Light",
+      "makeup": [
+        {
+          "label": "Base",
+          "tip": "SPF 50 under a light skin tint; let freckles show through.",
+          "colors": [
+            "#EAD7CC",
+            "#D8BFB2"
+          ]
+        },
+        {
+          "label": "Eyes",
+          "tip": "A wash of cool taupe and waterproof mascara for warm afternoons.",
+          "colors": [
+            "#A99B9B",
+            "#51464F"
+          ]
+        },
+        {
+          "label": "Blush",
+          "tip": "Blend a sheer rose cream blush with your fingertips.",
+          "colors": [
+            "#D6A5AE",
+            "#C98B9A"
+          ]
+        },
+        {
+          "label": "Lips",
+          "tip": "Cool pink SPF balm, reapplied after snacks and drinks.",
+          "colors": [
+            "#C98B9A",
+            "#D6A5AE"
+          ]
+        },
+        {
+          "label": "Finish",
+          "tip": "Blot shine gently; avoid heavy powder in direct sunlight.",
+          "colors": [
+            "#E8DCDD",
+            "#D2C7CD"
+          ]
+        }
+      ],
+      "outfit": [
+        {
+          "label": "Pieces",
+          "tip": "A lavender cotton sundress with a light dove-gray cardigan."
+        },
+        {
+          "label": "Extras",
+          "tip": "Canvas sneakers, a pale bucket hat, and a washable tote."
+        },
+        {
+          "label": "Jewelry",
+          "tip": "Small silver studs that will not snag on your blanket."
+        }
+      ],
+      "colors": [
+        {
+          "name": "Main",
+          "hex": "#B6A7CD"
+        },
+        {
+          "name": "Second",
+          "hex": "#B4B3B8"
+        },
+        {
+          "name": "Accent",
+          "hex": "#A8C7C0"
+        },
+        {
+          "name": "Lip",
+          "hex": "#C98B9A"
+        }
+      ],
+      "hair": [
+        {
+          "label": "Style",
+          "tip": "A relaxed half-up style to keep hair out of your face."
+        },
+        {
+          "label": "Detail",
+          "tip": "Secure with a soft lavender scrunchie, not a tight elastic."
+        }
+      ],
+      "goodToKnow": "Reapply sunscreen every two hours outdoors; your pretty hat is extra protection, not a replacement."
+    },
+    "Hiking": {
+      "title": "Fresh air, fresh face",
+      "tagline": "Trail-ready essentials that go the distance.",
+      "intensity": "Light",
+      "makeup": [
+        {
+          "label": "Base",
+          "tip": "SPF 50 sunscreen only, tinted if you like.",
+          "colors": [
+            "#EAD7CC",
+            "#D8BFB2"
+          ]
+        },
+        {
+          "label": "Eyes",
+          "tip": "Skip shadow; use a single coat of waterproof mascara if desired.",
+          "colors": [
+            "#51464F",
+            "#718CA8"
+          ]
+        },
+        {
+          "label": "Blush",
+          "tip": "Let the trail bring your natural flush; skip extra blush.",
+          "colors": [
+            "#D6A5AE",
+            "#C98B9A"
+          ]
+        },
+        {
+          "label": "Lips",
+          "tip": "SPF lip balm with a rose tint.",
+          "colors": [
+            "#C98B9A",
+            "#BD8A99"
+          ]
+        },
+        {
+          "label": "Finish",
+          "tip": "No setting powder; pack blotting papers for sweaty stops.",
+          "colors": [
+            "#E8DCDD",
+            "#D2C7CD"
+          ]
+        }
+      ],
+      "outfit": [
+        {
+          "label": "Pieces",
+          "tip": "A soft-teal moisture-wicking tee with slate hiking trousers."
+        },
+        {
+          "label": "Extras",
+          "tip": "Broken-in trail shoes, a powder-blue cap, and a daypack."
+        },
+        {
+          "label": "Jewelry",
+          "tip": "Tiny flat silver studs only; leave rings and chains at home."
+        }
+      ],
+      "colors": [
+        {
+          "name": "Main",
+          "hex": "#6EAAA7"
+        },
+        {
+          "name": "Second",
+          "hex": "#718CA8"
+        },
+        {
+          "name": "Accent",
+          "hex": "#AAC5D8"
+        },
+        {
+          "name": "Lip",
+          "hex": "#C98B9A"
+        }
+      ],
+      "hair": [
+        {
+          "label": "Style",
+          "tip": "A secure low braid that fits comfortably beneath your cap."
+        },
+        {
+          "label": "Detail",
+          "tip": "Use snag-free ties and tuck short strands under the cap."
+        }
+      ],
+      "goodToKnow": "Sweat-proof matters more than shade on the trail."
+    }
+  }
+}
